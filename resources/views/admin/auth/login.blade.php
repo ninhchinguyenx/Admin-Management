@@ -6,14 +6,14 @@
 
     <title>INSPINIA | Login 2</title>
 
-    <link href="{{asset('admin')}}/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="{{asset('admin-assets')}}/css/bootstrap.min.css" rel="stylesheet" />
     <link
-      href="{{asset('admin')}}/font-awesome/css/font-awesome.css"
+      href="{{asset('admin-assets')}}/font-awesome/css/font-awesome.css"
       rel="stylesheet"
     />
 
-    <link href="{{asset('admin')}}/css/animate.css" rel="stylesheet" />
-    <link href="{{asset('admin')}}/css/style.css" rel="stylesheet" />
+    <link href="{{asset('admin-assets')}}/css/animate.css" rel="stylesheet" />
+    <link href="{{asset('admin-assets')}}/css/style.css" rel="stylesheet" />
   </head>
 
   <body class="gray-bg">

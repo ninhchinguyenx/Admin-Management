@@ -1,4 +1,5 @@
 <?php
 return [
-    'title' => "Quản lí thành viên"
+    'title' => "Quản Lí Thành Viên",
+    "tableHeading" => "Danh sách thành viên"
 ];
